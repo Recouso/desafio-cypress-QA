@@ -29,7 +29,7 @@ npm install
 ```
 
 ## 3. Como rodar os testes
-# 3.1. Modo interativo (Cypress App)
+### 3.1. Modo interativo (Cypress App)
 
 Para abrir a interface gráfica do Cypress:
 ```bash
